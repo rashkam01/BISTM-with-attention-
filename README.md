@@ -1,7 +1,7 @@
 # Project Introduction
 This project aims at recognizing company and domain specific named-entity and relations between the entities extracted from huge text data. The model forms a bases at building domain ontologies or company specific knowledge graphs. 
 
-# Motivation 
+# Motivation  
 In an automotive part manufacturing industry, there is possibility of product recalls due to a variety of reasons. Some of the reasons include internal or external part damage, mistakes in packaging process, poor internal management etc. However, identifying quality defects is often the most difficult and the most critical for the producer.
 
 There are various problem solving process to handle product returns. A problem is defined as a deviation from a defined target situation, there are many ways to for problem solving and one such method of problem solving is 8D process, it defines 8 steps which includes not just solving the problem but also a root cause analysis so that the problem does not reoccur again and also a containment action to limit the problem and resume normal operations. However, each and every product already has an fmea(Failure mode and effect analysis document), an fmea pre-defines risk analysis, or the probable risk and failures a product can have, and there is a possiblity the the root cause might be defined in FMEA.
