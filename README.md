@@ -15,6 +15,7 @@ relation of potential failure or function of the entity.
 In this case "Grease" is identified as an entity also "motor interior" is also an subpart of the motor. This has a cause effect relationship, which means "Grease" has a sealing effect on "motor Interior". Therefore, relation extraction task will extract,
 
 Cause-effect(Grease,motor interior) Here, is an attempt to build an end-to-end entity and relationship extraction.
+
 ```python
 # import pandas as pd
 from lxml import etree
