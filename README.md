@@ -1,5 +1,5 @@
 # Project Introduction
-This project aims at recognizing company and domain specific named-entity and relations between the entities extracted from huge text data. The model forms a bases at building domain ontologies or company specific knowledge graphs.  
+This project aims at recognizing company and domain specific named-entity and relations between the entities extracted from huge text data. The model forms a bases at building domain ontologies or company specific knowledge graphs.   
 
 # Motivation  
 In an automotive part manufacturing industry, there is possibility of product recalls due to a variety of reasons. Some of the reasons include internal or external part damage, mistakes in packaging process, poor internal management etc. However, identifying quality defects is often the most difficult and the most critical for the producer.
